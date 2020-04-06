@@ -9,3 +9,11 @@ https://data.sfgov.org/Geographic-Locations-and-Boundaries/Analysis-Neighborhood
 
 ## Maps:
 The maps (html) were created in the Jupyter file.
+- Map 1:
+![](https://github.com/MartinBM4/Python-Analyse---SanFrancisco-Incidents/blob/master/map1.png)
+
+- Map 2:
+![](https://github.com/MartinBM4/Python-Analyse---SanFrancisco-Incidents/blob/master/map2.png)
+
+- Map 3:
+![](https://github.com/MartinBM4/Python-Analyse---SanFrancisco-Incidents/blob/master/map3.png)
